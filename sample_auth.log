@@ -1,0 +1,9 @@
+Nov 10 06:35:43 server sshd[1234]: Failed password for invalid user bob from 192.168.1.105 port 1111 ssh2
+Nov 10 06:35:48 server sshd[1235]: Failed password for root from 10.0.0.50 port 2222 ssh2
+Nov 10 06:35:55 server sshd[1236]: Failed password for root from 10.0.0.50 port 3333 ssh2
+Nov 10 06:36:01 server sshd[1237]: Accepted password for useradmin from 192.168.1.100 port 4444 ssh2
+Nov 10 06:36:10 server sshd[1238]: Failed password for root from 10.0.0.50 port 5555 ssh2
+Nov 10 06:36:15 server sshd[1239]: Failed password for root from 10.0.0.50 port 6666 ssh2
+Nov 10 06:36:20 server sshd[1240]: Failed password for root from 10.0.0.50 port 7777 ssh2
+Nov 10 06:36:25 server sshd[1241]: Failed password for user test from 1.2.3.4 port 8888 ssh2
+Nov 10 06:36:30 server sshd[1242]: Failed password for root from 10.0.0.50 port 9999 ssh2
